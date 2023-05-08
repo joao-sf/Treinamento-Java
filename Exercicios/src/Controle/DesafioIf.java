@@ -1,6 +1,6 @@
 package Controle;
 
-public class desafioIf {
+public class DesafioIf {
 public static void main(String[] args) {
 	double nota = 1.3;
 	
