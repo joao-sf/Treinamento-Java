@@ -12,7 +12,7 @@ public class DesafioWhile {
 		float media = 0;
 		float result = 0;
 		int i = 0;
-		float contador = 0;
+		//float contador = 0;
 		//inicio
 		System.out.println("Entre com as notas do aluno, ou -1 para finalizar.");
 		nota = entrada.nextFloat();
